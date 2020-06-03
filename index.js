@@ -1,5 +1,5 @@
 // Write your solution in this file!
-let driver = {}
+let driver = {};
 
 function updateDriverWithKeyAndValue(driver, object, key) {
 
@@ -7,5 +7,5 @@ function updateDriverWithKeyAndValue(driver, object, key) {
 }
 
 function destructivelyUpdateDriverWithKeyAndValue() {
-  
+
 }
